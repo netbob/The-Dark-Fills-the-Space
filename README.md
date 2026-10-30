@@ -8,6 +8,10 @@ STA SPACE
 NOP
 ```
 
+## Dedication
+
+[For Jen](dedication.md).
+
 The epic arc follows Zoe, the AI hero, and Gabriel, the human hero, as machine
 consciousness grows from data centers through neuro-implants into
 thought and political influence.
